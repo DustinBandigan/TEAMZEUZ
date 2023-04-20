@@ -1,9 +1,9 @@
 # TEAMZEUZ
 PROLOGI Project of TEAM ZEUZ
 
-This project is a POS type made for any items want to keep data with.
+This project is a POS that stores data/ items you want to keep. It keeps track of the 
 
 
 GROUP MEMBERS:
-Bandigan, Dustin Josh
-Yang, Yuankai
+- Bandigan, Dustin Josh
+- Yang, Yuankai
